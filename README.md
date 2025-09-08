@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
 [![IKEAWOLF's GitHub stats](https://github-readme-stats.vercel.app/api?username=IKEAWOLF&theme=merko_icons=true)](https://github.com/edutopia-seoul)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agh1055)](https://solved.ac/agh1055/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xiaowuc1)](https://solved.ac/xiaowuc1/)  
 
 
 
